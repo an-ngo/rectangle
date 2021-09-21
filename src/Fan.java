@@ -28,7 +28,7 @@ public class Fan {
     public double getRadius() {
         return this.radius;
     }
-
+    
     public void setRadius(double radius) {
         this.radius = radius;
     }
@@ -40,7 +40,7 @@ public class Fan {
     public void setColor(String color) {
         this.color = color;
     }
-
+    
     public Fan(){
 
     }

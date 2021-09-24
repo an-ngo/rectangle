@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Triangle t = new Triangle(1,2,3);
-        Scanner s = new Scan`ner(System.in);
+        Scanner s = new Scanner(System.in);
         t.setSide1(s.nextDouble());
         t.setSide2(s.nextDouble());
         t.setSide3(s.nextDouble());
